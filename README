@@ -1,0 +1,20 @@
+Cocoru Emilia-Iuliana 332CA - Tema 3
+
+
+Nu cred că am bonus, dar o să explic pe scurt ce am făcut
+pe aici:
+
+- obstacolele mele sunt de 3 dimeniuni diferite, generate random. Poziția si
+tipul de textura sunt si ele aleator alese. La atingerea unui obstacol
+se scade o viata. La pierderea celor 3 vieti, se termina jocul.
+
+- cu ajutorul unui dreptunghi am reprezentat scorul. Atunci cand jucatorul
+atinge un diamant, scorul creste. La 3 diamante, se castiga o viata (jucatorul
+putand avea maxim 3 vieti) și se revine la scorul inițial. Pozitia si tipul
+de textura sunt generate random.
+
+- cele doua tipuri de lumini sunt reprezentate de luna (spotlight) si de
+felinare (lumină punctiformă). Felinare apar cate 4 și cand ies din scena
+sunt repozitionate pentru a fi vizibile.
+
+-copacii au si ei pozitia si tipul de textura random.
